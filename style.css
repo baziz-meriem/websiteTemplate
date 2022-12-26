@@ -19,7 +19,7 @@ body {
 
 .social {
   position: fixed;
-  top: 70%;
+  top: 7%;
   right: 0px;
   z-index: 999;
 }
@@ -49,16 +49,14 @@ body {
   transition: all 1s;
 }
 .social ul li i {
-  margin-left: 20px;
   color: #000;
   background: #fff;
-  padding: 10px;
+  padding: 4px;
   border-radius: 50%;
   width: 20px;
   height: 20px;
   font-size: 20px;
   background: #ffffff;
-  
 }
 
 /*---------------------end first navbar-----------------*/
@@ -71,13 +69,13 @@ body {
   }
 
   
-  #sticky-nav {
+  .sticky-nav {
     position: sticky;
     top:0;
     height: 50px;
     width: 100%;
     background-color:#51724e;
-    font-family: 'Merienda', cursive;
+    font-family: 'Merienda', cursive ;
     z-index: 900;
   }
 
@@ -93,6 +91,7 @@ body {
     background-color: #9bae14;
     margin-left: 50px;
     font-size: large;
+    font-family: 'Merienda', cursive ;
   }
 
   .nav > .nav-links > ul li a{
@@ -102,6 +101,7 @@ body {
     line-height: 40px;
     font-size: 18px;
     text-decoration: none;
+    font-family: 'Merienda', cursive ;
 
   }
   .nav > .nav-links > ul{
@@ -247,6 +247,7 @@ body {
   font-family: 'Merienda', cursive;
   color:#F58B00;
   font-weight: 500;
+
 }
 
 
